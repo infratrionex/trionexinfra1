@@ -1,0 +1,6 @@
+{
+  "name": "Trionex Infra",
+  "description": "Website for Trionex Infra - Civil Construction Company in Thane, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
